@@ -10,6 +10,29 @@ A Python-based educational project for managing users, courses, and collections 
 - Environment variable configuration with dotenv
 - Automatic database schema reset on each run (for development/testing)
 
+## Application Screenshots
+
+### Sign In Page
+![Sign In Page](images/sign_in.png)
+
+### LMS Content Processing
+![LMS Content Processing](images/process_LMS_content.png)
+
+### Courses Overview
+![Courses Overview](images/courses.png)
+
+### File Processing Example
+![File Processing Example](images/process_files.png)
+
+### Study Agent Interface
+![Study Agent Interface](images/study_agent.png)
+
+### Reminder Agent Interface
+![Reminder Agent Interface](images/reminder_agent.png)
+
+### ChatBot Agent Interface
+![ChatBot Agent Interface](images/chatbot_agent.png)
+
 ## Requirements
 - Python 3.7+
 - MySQL server
